@@ -1,4 +1,4 @@
-### Hi there 👋
+### I have no idea what i'm doing but it works... everytime. 👋
 
 <div>
   <a href="https://github.com/Damgam"/>
